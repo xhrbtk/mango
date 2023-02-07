@@ -39,4 +39,13 @@ https://www.ruby-toolbox.com/categories/testing_frameworks
 https://github.com/rspec/rspec-rails
 
 rspec request test
+
+
+devdocs.io
+```
+
+### 创建测试
+
+```
+bin/rails generate rspec:request validation_codes
 ```
