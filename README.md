@@ -1,5 +1,11 @@
 # README
 
+### 运行 rails
+
+```
+bin/rails sever
+```
+
 ### 外部终端 先启动 docker 数据库
 
 ```
@@ -23,4 +29,14 @@ bundle --verbose
 ```
 RAILS_ENV=test bin/rails db:create
 RAILS_ENV=test bin/rails db:migrate
+```
+
+### 相关网站
+
+```
+https://gems.ruby-china.com/
+https://www.ruby-toolbox.com/categories/testing_frameworks
+https://github.com/rspec/rspec-rails
+
+rspec request test
 ```
