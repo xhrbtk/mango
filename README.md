@@ -47,5 +47,6 @@ devdocs.io
 ### 创建测试
 
 ```
+bin/rails generate rspec:request xxx //生成请求测试文件
 bin/rails generate rspec:request validation_codes
 ```
